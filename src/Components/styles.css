@@ -1,0 +1,35 @@
+.col-header {
+  display: flex;
+  align-items: center;
+}
+
+.img-profile {
+  border-radius: 50%;
+  max-width: 32px;
+  max-height: 32px;
+  margin-right: 10px;
+}
+
+.span-name {
+  margin-right: 10px;
+}
+
+.col-body p {
+  margin-bottom: 0.2rem;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.icon-bottom {
+  margin-right: 10px;
+}
+
+.row-bottom .col {
+  padding: 0;
+}
+
+.row-bottom button {
+  width: 100%;
+}
